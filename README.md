@@ -1,0 +1,2 @@
+# adss.js
+Iklan
